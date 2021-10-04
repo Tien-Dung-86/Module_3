@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/11.Internationaliztion/blog-i18n-laravel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2.Route/task_manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4.View_Blade/Demo_template_add_edit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4.View_Blade/demoView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4.View_Blade/demo_view_morning/resources/views/sb-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5.ORM_Eloquent/manage-book/resources/views/startbootstrap-sb-admin-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/7.Validation&amp;Exception_Handling/custom-validation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Case-Study-Module-3" vcs="Git" />
+  </component>
+</project>
